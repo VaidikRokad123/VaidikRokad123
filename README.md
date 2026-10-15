@@ -5,6 +5,7 @@ I like projects where data goes in one end and something useful comes out the ot
 ## Selected work
 
 <table>
+  
 <tr>
 <td><a href="https://github.com/VaidikRokad123/Mined-Delta_Force"><img src="assets/card-petpooja.svg" width="480" alt="PetPooja Revenue Intelligence"/></a></td>
 <td><a href="https://github.com/VaidikRokad123/Banking-Portal"><img src="assets/card-banking.svg" width="480" alt="Banking Portal"/></a></td>
